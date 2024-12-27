@@ -1,4 +1,5 @@
 #1768. Merge Strings Alternately
+#Link: https://leetcode.com/problems/find-closest-number-to-zero/
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         z="" #initializing a blank string to append
